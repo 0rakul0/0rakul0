@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on ... this is projects based on full stack, from my own page dedicated to RPG
+
+protetion on WannaCry
+forfiles /P e:\backup\ /c "cmd /c rename @path @fname.@0rakul0
