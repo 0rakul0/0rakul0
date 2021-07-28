@@ -4,7 +4,7 @@ Um pouco sobre mim.
 
 Bem, acabei de me formar em ciência da computação, e para não esquecer tudo que aprendi durante esse tempo resolvi criar um canal sobre ciência da computação, logo aqui vai ter conteúdo sobre:
 
-```javascript 
+```c
 
 ciência da computação: { 
         fundamentos: a base de tudo;
