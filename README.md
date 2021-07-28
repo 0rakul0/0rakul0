@@ -1,4 +1,10 @@
-## Oi eu sou o 0rakul0 ~ Anjos, Jefferson Silva dos 👋
+## Oi eu sou o 0rakul0 ~ Jefferson Silva 👋
+
+ <div>
+  <a href="https://github.com/0rakul0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0rakul0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rakul0&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 Um pouco sobre mim.
 
@@ -26,4 +32,4 @@ Hacking web: {
              ]
 }
 ```
-link do canal do youtube => 
+
