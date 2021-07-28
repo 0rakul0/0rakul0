@@ -33,11 +33,12 @@ Um pouco sobre mim.
 </div>
  
  ##
- 
-```c
 
-Bem, acabei de me formar em ciência da computação, e para não esquecer tudo que aprendi durante esse tempo resolvi criar um canal sobre ciência da computação, logo aqui vai ter conteúdo sobre:
- 
+
+Bem, acabei de me formar em ciência da computação, e para não esquecer tudo que aprendi durante esse tempo resolvi 
+criar um canal sobre ciência da computação, logo aqui vai ter conteúdo sobre: 
+
+```c
 ciência da computação: { 
         fundamentos: a base de tudo;
         desenvolvimento de algoritmos: o que é necessário para desenvolver a logica para qualquer linguagem de programação;
