@@ -8,8 +8,6 @@
 
 Um pouco sobre mim.
 
-Bem, acabei de me formar em ciência da computação, e para não esquecer tudo que aprendi durante esse tempo resolvi criar um canal sobre ciência da computação, logo aqui vai ter conteúdo sobre:
-
  ##
  
  <div style="display: inline_block"><br>
@@ -38,6 +36,8 @@ Bem, acabei de me formar em ciência da computação, e para não esquecer tudo 
  
 ```c
 
+Bem, acabei de me formar em ciência da computação, e para não esquecer tudo que aprendi durante esse tempo resolvi criar um canal sobre ciência da computação, logo aqui vai ter conteúdo sobre:
+ 
 ciência da computação: { 
         fundamentos: a base de tudo;
         desenvolvimento de algoritmos: o que é necessário para desenvolver a logica para qualquer linguagem de programação;
