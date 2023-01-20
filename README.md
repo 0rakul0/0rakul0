@@ -1,10 +1,18 @@
 ## Oi eu sou o 0rakul0 ~ Jefferson Silva 👋
 
- <div>
-  <a href="https://github.com/0rakul0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0rakul0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rakul0&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=0rakul0&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=0rakul0&show_icons=true" />
+ <source
+ srcset="https://github-readme-stats.vercel.app/api/wakatime?username=0rakul0"
+         media="(prefers-color-scheme: dark)"
+         />
+</picture>
+
+
 
  ## Um pouco sobre mim.
  
