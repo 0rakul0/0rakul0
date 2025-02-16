@@ -1,4 +1,5 @@
-## Oi eu sou o 0rakul0 ~ Jefferson Silva 👋
+ ##
+# Olá, eu sou o Jefferson Silva (0rakul0) 👋
 
 <picture>
 <source 
@@ -38,33 +39,30 @@
  
 </div>
  
- ##
 
-Bem, acabei de me formar em ciência da computação, e para não esquecer tudo que aprendi durante esse tempo resolvi 
-criar um canal sobre ciência da computação, logo aqui vai ter conteúdo sobre: 
+## Sobre Mim
 
-```js
-ciência da computação: { 
-  fundamentos: a base de tudo;
-  desenvolvimento de algoritmos: o que é necessário para desenvolver a logica para qualquer linguagem de programação;
-  desenvolvimento web: front e back-end, a principio em javascript;
-},
-Hacking web: {
- base_HW:[
-  como funciona Redes de computadores.
-  como funciona as coisas na internet.
-  os buracos que não podem ter em seu site.
-  como achar buracos nos sites.
- ]
-},
-Ciência de dados: {
- base_Dados:[
-  regressão linear.
-  analise de dados.
-  visualização de dados.
-  modelagem de dados.
-  machine learning.
-  big data.
- ]
-}
-```
+Sou Bacharel em Ciência da Computação, com pós-graduação em Ciência de Dados e especialização em Inteligência Artificial. Tenho experiência em desenvolvimento de software, ciência de dados e soluções de IA. Atualmente, trabalho no IPEA e mantenho projetos ativos no GitHub.
+
+## Projetos Recentes
+
+### [RAG_FASTAPI](https://github.com/0rakul0/RAG_FASTAPI)
+
+Este projeto implementa uma API para recuperação de documentos utilizando FastAPI e Sentence Transformers. Ele processa arquivos de texto, segmenta-os e identifica os documentos mais relevantes para responder às perguntas dos usuários. Além disso, integra-se com o Ollama para gerar respostas baseadas no conteúdo dos documentos.
+
+### [DevOps_Diarios](https://github.com/0rakul0/DevOps_Diarios)
+
+O RoboDiario é uma solução automatizada que realiza o download dos Diários Oficiais de Justiça do Estado do Rio de Janeiro. Utilizando Selenium, o script interage com o site do Tribunal de Justiça do RJ para baixar os arquivos PDF conforme os parâmetros definidos em um arquivo de configuração YAML.
+
+### [cotacoes_backEnd](https://github.com/0rakul0/cotacoes_backEnd)
+
+Este projeto envolve o desenvolvimento de um rastreador de ações em tempo real. O sistema coleta cotações minuto a minuto, permitindo monitoramento contínuo e análise de dados do mercado financeiro.
+
+## Contato
+
+- Lattes: [http://lattes.cnpq.br/4924247830911437](http://lattes.cnpq.br/4924247830911437)
+- Hugging Face: [https://huggingface.co/0rakul0](https://huggingface.co/0rakul0)
+- ORCID: [https://orcid.org/0009-0001-6304-3513](https://orcid.org/0009-0001-6304-3513)
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou discussões sobre tecnologia e ciência de dados.
+
