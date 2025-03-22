@@ -43,6 +43,15 @@ Sou Bacharel em Ciência da Computação, com pós-graduação em Ciência de Da
 
 ## Projetos Recentes
 
+### [JOGOS_DE_AZAR](https://github.com/0rakul0/jogos_de_azar)
+
+Este projeto tem como objetivo um processo de visão computacional para indentificar possiveis conteúdos de jogos de azar.
+- **Captura de Propagandas:** Coleta e armazenamento de imagens, GIFs e vídeos curtos (até 10 segundos) de propagandas online.
+- **Análise de Conteúdo:** Utilização de redes neurais convolucionais para identificar elementos presentes nas propagandas.
+- **Descrição dos itens:** Após a identificação analisar os itens achados em sequencia e formular uma frase.
+- **Classificação de Risco:** Avaliação do potencial das propagandas promoverem jogos de azar, classificando-as como problemáticas ou não.
+
+
 ### [RAG_QDRANT_LLM](https://github.com/0rakul0/RAG_QDRANT_LLM)
 
 Este projeto visa realizar um processo de ETL (Extração, Transformação e Carga) utilizando um conjunto de dados de vinhos disponível no Kaggle. O objetivo é estruturar os dados e armazená-los no Qdrant, um banco de dados vetorial, para posteriormente realizar consultas utilizando uma LLM (Language Model). O fluxo inclui:
