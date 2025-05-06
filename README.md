@@ -43,13 +43,14 @@ Sou Bacharel em Ciência da Computação, com pós-graduação em Ciência de Da
 
 ## Projetos Recentes
 
-### [JOGOS_DE_AZAR](https://github.com/0rakul0/jogos_de_azar)
+### [graphRAG\_perplexity](https://github.com/0rakul0/graphRAG_perplexity)
 
-Este projeto tem como objetivo um processo de visão computacional para indentificar possiveis conteúdos de jogos de azar.
-- **Captura de Propagandas:** Coleta e armazenamento de imagens, GIFs e vídeos curtos (até 10 segundos) de propagandas online.
-- **Análise de Conteúdo:** Utilização de redes neurais convolucionais para identificar elementos presentes nas propagandas.
-- **Descrição dos itens:** Após a identificação analisar os itens achados em sequencia e formular uma frase.
-- **Classificação de Risco:** Avaliação do potencial das propagandas promoverem jogos de azar, classificando-as como problemáticas ou não.
+Este projeto investiga o uso de grafos de conhecimento para enriquecer sistemas de Recuperação Aumentada por Geração (RAG), com o objetivo de melhorar a geração de respostas por modelos de linguagem de grande escala (LLMs).
+
+* **Construção de Grafos:** Geração de grafos semânticos a partir de textos com base em entidades e suas relações.
+* **Integração com LLMs:** Inserção dos grafos como contexto estruturado para auxiliar a geração de respostas mais coerentes.
+* **Formulação de Prompts:** Criação de prompts personalizados que combinam linguagem natural e estruturas extraídas do grafo.
+* **Avaliação de Perplexidade:** Medição da qualidade das respostas por meio de métricas de perplexidade, comparando diferentes abordagens de contexto.
 
 
 ### [RAG_QDRANT_LLM](https://github.com/0rakul0/RAG_QDRANT_LLM)
