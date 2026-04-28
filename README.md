@@ -1,9 +1,14 @@
- ##
-# Olá, eu sou o Jefferson Silva (0rakul0) 👋
+# Jefferson Anjos (0rakul0)
 
-## Sobre Mim
+🚀 Engenheiro de Dados | AI aplicada | Sistemas de informação para políticas públicas
 
-Sou Bacharel em Ciência da Computação, com pós-graduação em Ciência de Dados e especialização em Inteligência Artificial. Tenho experiência em desenvolvimento de software, ciência de dados e soluções de IA. Atualmente, trabalho no IPEA e mantenho projetos ativos no GitHub.
+Atuo no desenvolvimento de sistemas orientados a dados, com foco em **ETL em larga escala**, **RAG (Retrieval-Augmented Generation)** e **processamento de linguagem natural (NLP)**.
+
+Tenho experiência prática na construção de pipelines completos — da coleta ao consumo — integrando **LLMs, bancos vetoriais e sistemas analíticos**, com aplicações reais no contexto de **dados públicos e institucionais (IPEA)**.
+
+---
+
+## 📊 Estatísticas
 
 <picture>
 <source 
@@ -17,20 +22,30 @@ Sou Bacharel em Ciência da Computação, com pós-graduação em Ciência de Da
          />
 </picture>
 
- ## tecnologias.
- 
- <div style="display: inline_block"><br>
-  <img align="center" alt="0rakul0-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="0rakul0-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="0rakul0-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="0rakul0-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+---
 
-## Contato academico
+## 🔍 Áreas de Atuação
 
-- Lattes: [http://lattes.cnpq.br/4924247830911437](http://lattes.cnpq.br/4924247830911437)
-- Hugging Face: [https://huggingface.co/0rakul0](https://huggingface.co/0rakul0)
-- ORCID: [https://orcid.org/0009-0001-6304-3513](https://orcid.org/0009-0001-6304-3513)
+* 🧠 **LLMs & RAG Systems**
+
+  * Qdrant, embeddings e busca semântica
+  * Pipeline completo: ingestão → chunking → indexação → recuperação → geração
+  * APIs com FastAPI para sistemas de QA
+
+* ⚙️ **Engenharia de Dados**
+
+  * ETL com Python (Pandas, Polars, Joblib)
+  * Processamento de grandes volumes (CSV → Parquet → DB)
+  * Integração de bases complexas (jurídicas e saúde pública)
+
+* 📊 **Visualização & Geoprocessamento**
+
+  * Dash + Plotly
+  * GeoPandas para análise territorial
+  * Dashboards interativos para tomada de decisão
+
+---
+
 
 ## contatos
 <div> 
@@ -41,38 +56,113 @@ Sou Bacharel em Ciência da Computação, com pós-graduação em Ciência de Da
  
 </div>
 
-## Projetos Recentes
+---
+## 🧩 Projetos em Destaque
 
-### [graphRAG\_perplexity](https://github.com/0rakul0/graphRAG_perplexity)
+### 🔗 graphRAG_perplexity
 
-Este projeto investiga o uso de grafos de conhecimento para enriquecer sistemas de Recuperação Aumentada por Geração (RAG), com o objetivo de melhorar a geração de respostas por modelos de linguagem de grande escala (LLMs).
+Exploração de grafos de conhecimento em sistemas RAG.
 
-* **Construção de Grafos:** Geração de grafos semânticos a partir de textos com base em entidades e suas relações.
-* **Integração com LLMs:** Inserção dos grafos como contexto estruturado para auxiliar a geração de respostas mais coerentes.
-* **Formulação de Prompts:** Criação de prompts personalizados que combinam linguagem natural e estruturas extraídas do grafo.
-* **Avaliação de Perplexidade:** Medição da qualidade das respostas por meio de métricas de perplexidade, comparando diferentes abordagens de contexto.
+* Construção de grafos semânticos (entidades + relações)
+* Integração com LLMs como contexto estruturado
+* Avaliação de qualidade via perplexidade
 
+---
 
-### [RAG_QDRANT_LLM](https://github.com/0rakul0/RAG_QDRANT_LLM)
+### 🔗 RAG_QDRANT_LLM
 
-Este projeto visa realizar um processo de ETL (Extração, Transformação e Carga) utilizando um conjunto de dados de vinhos disponível no Kaggle. O objetivo é estruturar os dados e armazená-los no Qdrant, um banco de dados vetorial, para posteriormente realizar consultas utilizando uma LLM (Language Model). O fluxo inclui:
+Pipeline completo de recuperação semântica com dados reais.
 
-- **Extração dos Dados**: Coleta de informações de um arquivo CSV contendo descrições detalhadas de vinhos.
-- **Transformação**: Limpeza e preparação dos dados, mantendo colunas essenciais como país de origem, preço e variedade de uvas.
-- **Carga**: Conversão dos dados em embeddings através do modelo `all-MiniLM-L6-v2` e armazenamento no Qdrant para consultas semânticas avançadas.
+* ETL de dataset (Kaggle)
+* Geração de embeddings (`all-MiniLM-L6-v2`)
+* Indexação no Qdrant
+* Consulta com LLM
 
-### [RAG_FASTAPI](https://github.com/0rakul0/RAG_FASTAPI)
+---
 
-Este projeto implementa uma API para recuperação de documentos utilizando FastAPI e Sentence Transformers. Ele processa arquivos de texto, segmenta-os e identifica os documentos mais relevantes para responder às perguntas dos usuários. Além disso, integra-se com o Ollama para gerar respostas baseadas no conteúdo dos documentos.
+### 🔗 RAG_FASTAPI
 
-### [DevOps_Diarios](https://github.com/0rakul0/DevOps_Diarios)
+API de recuperação de documentos com geração de respostas.
 
-O RoboDiario é uma solução automatizada que realiza o download dos Diários Oficiais de Justiça do Estado do Rio de Janeiro. Utilizando Selenium, o script interage com o site do Tribunal de Justiça do RJ para baixar os arquivos PDF conforme os parâmetros definidos em um arquivo de configuração YAML.
+* Segmentação de texto
+* Busca por similaridade
+* Integração com Ollama
 
-### [cotacoes_backEnd](https://github.com/0rakul0/cotacoes_backEnd)
+---
 
-Este projeto envolve o desenvolvimento de um rastreador de ações em tempo real. O sistema coleta cotações minuto a minuto, permitindo monitoramento contínuo e análise de dados do mercado financeiro.
+### 🔗 DevOps_Diarios
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou discussões sobre tecnologia e ciência de dados.
+Automação de coleta de dados públicos (Diários Oficiais).
 
+* Web scraping com Selenium
+* Download estruturado de PDFs
+* Base para pipelines jurídicos
+
+---
+
+### 🔗 cotacoes_backEnd
+
+Sistema de monitoramento de mercado financeiro.
+
+* Coleta em tempo real
+* Pipeline contínuo de dados
+
+---
+
+## 🛠️ Stack Tecnológica
+
+**Linguagem**
+
+* Python
+
+**Dados**
+
+* Pandas, Polars
+* SQLite
+
+**AI / NLP**
+
+* Transformers
+* Sentence Transformers
+* Qdrant
+
+**Backend**
+
+* FastAPI
+
+**Visualização**
+
+* Dash
+* Plotly
+* GeoPandas
+
+---
+
+## ⚡ Diferenciais Técnicos
+
+* Construção de **pipelines end-to-end**
+* Integração de **LLMs com sistemas reais**
+* Experiência com **dados não estruturados (PDF, texto jurídico)**
+* Aplicação prática em **contextos governamentais**
+
+---
+
+## 🎓 Contato Acadêmico
+
+* Lattes: http://lattes.cnpq.br/4924247830911437
+* Hugging Face: https://huggingface.co/0rakul0
+* ORCID: https://orcid.org/0009-0001-6304-3513
+
+---
+
+## 📫 Contato
+
+<div> 
+  <a href="mailto:jefferson.ti@hotmail.com.br">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jeffersondosanjos/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
