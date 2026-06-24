@@ -52,7 +52,7 @@ Tenho experiência prática na construção de pipelines completos — da coleta
   <a href = "mailto:jefferson.ti@hotmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeffersondosanjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/0rakul0/0rakul0/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/0rakul0/0rakul0/blob/output/github-snake.svg)
  
 </div>
 
